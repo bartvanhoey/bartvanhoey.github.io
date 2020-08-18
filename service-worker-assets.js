@@ -349,7 +349,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-tGmw+dMC\/RkBcoFZgS5Yetre5KfqvVhL5radSLCD4Fc=",
+      "hash": "sha256-B\/jg3EQjjJ9DVueBjKNifD0fASrRFkyKepI4BjcZLnA=",
       "url": "manifest.json"
     },
     {
@@ -473,5 +473,5 @@
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "AR3wecHo"
+  "version": "g1I4OZKO"
 };
