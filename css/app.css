@@ -191,3 +191,10 @@ app {
   bottom: 0;
   width: 100%;
 }
+
+.templated-list h5 {
+  font-size: 1.3rem;
+  font-weight: 300;
+  margin: 0.2rem 0 0 0;
+  font-family: 'Bahnschrift', Arial, Helvetica, sans-serif;
+}
