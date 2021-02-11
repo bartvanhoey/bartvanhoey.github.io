@@ -13,7 +13,7 @@
       "url": "404.html"
     },
     {
-      "hash": "sha256-732YnoC761cw4MtWEEmHB7zb4vj\/5FUXG00skheVebk=",
+      "hash": "sha256-pDB\/f2Zr+3WkmrIkNuaMiKVUg0ztLZA7S9+JLDi7eSQ=",
       "url": "css\/app.css"
     },
     {
@@ -349,7 +349,7 @@
       "url": "js\/popper\/popper-v1.11.0.min.js"
     },
     {
-      "hash": "sha256-7Rv48Yf1W9+p1bJB7Dpojy0AX5KtUH0YnR46JEQIK2Q=",
+      "hash": "sha256-jnO+yxCDYMUHyokmjBT2xirc08yMj3GsJ9vsvyQbFfg=",
       "url": "manifest.json"
     },
     {
@@ -517,5 +517,5 @@
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "ZA\/703dB"
+  "version": "lVUYgzIO"
 };
