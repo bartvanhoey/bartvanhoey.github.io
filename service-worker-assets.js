@@ -13,7 +13,7 @@
       "url": "404.html"
     },
     {
-      "hash": "sha256-ACXXOkjL3FAYFKDd86HtiRraFkC7KxbYTelZNDuEq6Y=",
+      "hash": "sha256-732YnoC761cw4MtWEEmHB7zb4vj\/5FUXG00skheVebk=",
       "url": "css\/app.css"
     },
     {
@@ -517,5 +517,5 @@
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "h0SBnHNf"
+  "version": "ZA\/703dB"
 };
