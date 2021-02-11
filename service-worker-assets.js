@@ -17,7 +17,7 @@
       "url": "css\/app.css"
     },
     {
-      "hash": "sha256-rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=",
+      "hash": "sha256-cQjWNORxcoTGJQuAa+PxrPrTsYgTQ9OXQGMg0XPjlm0=",
       "url": "css\/bootstrap\/bootstrap.min.css"
     },
     {
@@ -521,5 +521,5 @@
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "Vx\/dZaPM"
+  "version": "J+pd0uQJ"
 };
