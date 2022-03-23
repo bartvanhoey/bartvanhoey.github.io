@@ -13,11 +13,11 @@
       "url": "404.html"
     },
     {
-      "hash": "sha256-pDB\/f2Zr+3WkmrIkNuaMiKVUg0ztLZA7S9+JLDi7eSQ=",
+      "hash": "sha256-FCob4Y53lGZ8ULlnVzOQfpiPq0Sr8FJfE8I0cX93vgU=",
       "url": "css\/app.css"
     },
     {
-      "hash": "sha256-cQjWNORxcoTGJQuAa+PxrPrTsYgTQ9OXQGMg0XPjlm0=",
+      "hash": "sha256-7vGm2iVUInPbmfq27HgewhyhgYBkg4SbQ29Ot+sqFA0=",
       "url": "css\/bootstrap\/bootstrap.min.css"
     },
     {
@@ -517,5 +517,5 @@
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "qMyndObg"
+  "version": "OOEQrm5C"
 };
